@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Statens kartverk - Norwegian Mapping Authority is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.kartverket.no/
+Statens kartverk, also known as the Norwegian Mapping Authority, is Norway's national agency responsible for mapping, land registration, and geographic information. Established in 1773, it provides a wide range of geospatial data, services, and tools for public and private use, supporting navigation, land management, and environmental planning across the country.
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.kartverket.no/)
+- [Security](https://vdp.kartverket.no/responsible-disclosure-policy.txt)
+- [GitHub](https://github.com/kartverket)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/statens-kartverk-norwegian-mapping-authority/](https://apis.io/providers/statens-kartverk-norwegian-mapping-authority/).
